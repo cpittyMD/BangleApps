@@ -4,7 +4,8 @@
   "icon": "icon.png",
   "version":"0.01",
   "description": "A Cowboy Bebop Themed Watchface",
-  "tags": "",
+  "tags": "clock",
+  "type": "clock",
  "supports": ["BANGLEJS2"],
   "storage": [
     {"name":"bebopwf.app.js","url":"app.js"},
