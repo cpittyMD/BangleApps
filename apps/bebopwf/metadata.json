@@ -1,7 +1,7 @@
 { "id": "bebopwf",
   "name": "Bebop Watchface",
   "shortName":"bebopWF",
-  "icon": "app.png",
+  "icon": "icon.png",
   "version":"0.01",
   "description": "A Cowboy Bebop Themed Watchface",
   "tags": "",
